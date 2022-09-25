@@ -1,2 +1,16 @@
-# TrafficSync-BeamMP for
-Mod to sync traffic signals like those found on East Coast USA on BeamMP servers
+# CommandEngine
+
+## About
+
+* Status: **WIP**
+
+CommandEngine is plugin for BeamMP.\
+Plugin for handle commands from client chat or server console.
+
+## Wiki
+
+-- TODO
+
+* 1
+* 2
+* 3
