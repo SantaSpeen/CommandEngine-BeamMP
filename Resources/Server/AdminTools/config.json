@@ -1,0 +1,10 @@
+{
+  "admins": [],
+  "prefix": "/",
+  "database": {
+    "mode": "SQLite",
+    "host": "",
+    "login": "",
+    "password": ""
+  }
+}
