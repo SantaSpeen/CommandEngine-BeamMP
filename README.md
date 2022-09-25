@@ -9,7 +9,8 @@ Plugin for handle commands from client chat or server console.
 
 ## Wiki
 
--- TODO
+**Installation**\
+Copy `CommandEngine` dir to `Resources/Server/`
 
 * 1
 * 2
