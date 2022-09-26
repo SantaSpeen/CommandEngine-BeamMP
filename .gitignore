@@ -47,4 +47,4 @@ luac.out
 BeamMP-Server.exe
 ServerConfig.toml
 *.log
-Resources\
+Resources/
